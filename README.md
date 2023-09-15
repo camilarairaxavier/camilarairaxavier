@@ -4,8 +4,8 @@
 - 😊 Pronouns: She/Her
 
 <div align="center">
-  <a href="https://github.com/camilaxavier08">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilaxavier08&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/camilarairaxavier">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilarairaxavier&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
  <div style="display: inline_block"><br>
